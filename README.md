@@ -4,7 +4,25 @@ Enumerables
 
 ## Description
 
+An excersise for using classes & module in Ruby
 
+## Getting Started
+
+### Prerequisites
+
+- Ruby installed locally in your machine.
+- VSCode or any text editor.
+- use "git clone" command or download the zip file.
+
+### Setup
+
+- Open the terminal on your computer
+- Navigate through directories till you're in the wanted folder, or simply navigate to the desired folder, right click & choose open terminal here.
+- To run "MyList.rb file" type "irb MyList.rb" in the cmd & hit enter
+
+## Built With
+
+- Ruby
 
 ## Authors
 
